@@ -1,19 +1,21 @@
-# Elysia.js Beginner Project
+# bun-react-tailwind-shadcn-template
 
-A simple starter project using Elysia.js, a modern web framework for Node.js.
+To install dependencies:
 
-## Features
+```bash
+bun install
+```
 
-- 🚀 Fast and lightweight
-- 🔌 Easy to use
-- 📦 Built-in TypeScript support
-- 🛠️ Simple API development
+To start a development server:
 
-## Prerequisites
+```bash
+bun dev
+```
 
-- Node.js (v16 or higher)
-- npm or yarn
+To run for production:
 
-## Installation
+```bash
+bun start
+```
 
-1. Clone the repository:
+This project was created using `bun init` in bun v1.2.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
